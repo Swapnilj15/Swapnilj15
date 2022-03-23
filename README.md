@@ -1,7 +1,7 @@
 
 
 
-[![MasterHead](https://semidotinfotech.com/blog/wp-content/uploads/2018/12/Hire-Top-React-Developers-Semidot-Infotech.gif)
+![MasterHead](https://semidotinfotech.com/blog/wp-content/uploads/2018/12/Hire-Top-React-Developers-Semidot-Infotech.gif)
 
 <h1 align="center">Hi 👋, I'm Swapnil Jain</h1>
 <h3 align="center">A passionate frontend developer from India</h3><br><br><br>
@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **NodeJs**
 
-- 💬 Ask me about **React, JavaScript, MangoDB**
+- 💬 Ask me about **React, JavaScript, MongoDB**
 
 - 📫 How to reach me **15.swapnilj@gmail.com**
 
