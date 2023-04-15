@@ -10,7 +10,7 @@
 <br>
 
 
-- 🔭 I’m currently working on **Portfolio**
+
 
 - 🌱 I’m currently learning **NodeJs**
 
